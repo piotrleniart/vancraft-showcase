@@ -10,7 +10,7 @@ Features include:
 - Export and import projects as JSON
 ___
 
-<img width="1688" height="1053" alt="obraz" src="https://github.com/user-attachments/assets/a8af51e9-bf32-4023-9162-acb30f5be762" />
+<img width="2522" height="1276" alt="obraz" src="https://github.com/user-attachments/assets/1c7283e2-dafe-4556-8b02-ea79ac0f1d7a" />
 
 <p align="center">
   <strong><a href="https://vancraft.app">Launch Vancraft</a> 🚐</strong>
